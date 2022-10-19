@@ -1,0 +1,9 @@
+-  request:
+      method: [GET]
+      url: /
+      file: C:/Users/acc-u/OneDrive/デスクトップ/スタブ/request/CASE1.json
+   response:
+      -  status: 200
+         headers:
+            content-type: application/json; charset=UTF-8
+         file: C:/Users/acc-u/OneDrive/デスクトップ/スタブ/response/CASE1.json
